@@ -1,0 +1,40 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+.item .content .header{
+  font-size: 18px
+}
+
+.item .content {
+  font-size: 15px
+}
+
+i.icon {
+  margin-left :20px;
+  float: right;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.right {
+  float: right !important;
+}
+.center-div {
+  text-align: center;
+}
+
